@@ -1,10 +1,6 @@
 
 ### Hi there 👋, I'm Md. Khairul Bashar (Bappy)
 #### Web Developer
-
-![Web Developer] https://www.facebook.com/photo/?fbid=2751424598448098&set=a.1438519613071943
-
-
 I’m a web developer. I spend my whole day, practically every day, experimenting with HTML, CSS, and JavaScript; dabbling with Python and I love programming and tech-related stuff.
 
 Skills:  JS / HTML / CSS
