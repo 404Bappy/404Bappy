@@ -23,7 +23,7 @@ Skills: JS / HTML / CSS / Python
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=404Bappy&theme=vue-dark&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=404Bappy)  
+
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=404Bappy)  
 
