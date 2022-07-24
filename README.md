@@ -37,10 +37,9 @@ Skills: JS / HTML / CSS / Python
 
 <br />
 <br />
-
+<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=404Bappy)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=404Bappy)  
+ 
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=404Bappy&theme=vue-dark&show_icons=true)  
@@ -50,3 +49,4 @@ Skills: JS / HTML / CSS / Python
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=404Bappy)  
 
 ![Profile views](https://gpvc.arturio.dev/404Bappy)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=404Bappy) 
