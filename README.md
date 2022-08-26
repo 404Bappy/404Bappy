@@ -9,9 +9,6 @@ I’m a web developer. I spend my whole day, practically every day, experimentin
 
 Skills: JS / HTML / CSS / Python
 
-- 🔭 I’m currently working on Web Development 
-- 🌱 I’m currently learning JavaScript 
-- 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Web Development 
 - 📫 How to reach me: 19103076@iubat.edu 
 
