@@ -1,8 +1,6 @@
 ![](https://media-exp1.licdn.com/dms/image/C4D22AQGhgceGsLNlVw/feedshare-shrink_800/0/1655316206937?e=1661385600&v=beta&t=pkJNLBNHGXKcdu6jlDS-p-52dQ0Yx5-MAEx_vkvSAoI)
 
 
-
-
 ###### Hi there 👋, This is Md. Khairul Bashar
 
 I’m a web developer. I spend my whole day, practically every day, experimenting with HTML, CSS, and JavaScript; dabbling with Python and I love programming and tech-related stuff.
