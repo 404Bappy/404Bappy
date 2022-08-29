@@ -5,7 +5,8 @@
 
 I’m a web developer. I spend my whole day, practically every day, experimenting with HTML, CSS, and JavaScript; dabbling with Python and I love programming and tech-related stuff.
 
-Skills: JS / HTML / CSS / Python
+𝗦𝗸𝗶𝗹𝗹𝘀:
+𝗛𝗧𝗠𝗟 / 𝗖𝗦𝗦 / 𝗣𝘆𝘁𝗵𝗼𝗻 / 𝗝𝗦 / 𝗥𝗲𝗮𝗰𝘁
 
 - 💬 Ask me about Web Development 
 - 📫 How to reach me: 19103076@iubat.edu 
