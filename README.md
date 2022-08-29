@@ -32,9 +32,9 @@
 <img align="left" alt="react native" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="react native" width="50px" src="https://user-images.githubusercontent.com/54958684/145115118-d2a12762-c5ad-4c86-82e2-e92b4d6e9c25.png" />
 
-<br />
-<br />
-<br />
+<br/>
+<br/>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=404Bappy)](https://github.com/anuraghazra/github-readme-stats)
  
