@@ -3,11 +3,6 @@
 
 ![](https://media-exp1.licdn.com/dms/image/C4D22AQGhgceGsLNlVw/feedshare-shrink_800/0/1655316206937?e=1664409600&v=beta&t=JsFp5Z0ApCxX6bPXkXq3x0hEqyOkK4CJqAAG3P8wRFI)
 
-
-
-
-I’m a web developer. I spend my whole day, practically every day, experimenting with HTML, CSS, and JavaScript; dabbling with Python and I love programming and tech-related stuff.
-
 𝗦𝗸𝗶𝗹𝗹𝘀:
 𝗛𝗧𝗠𝗟 / 𝗖𝗦𝗦 / 𝗣𝘆𝘁𝗵𝗼𝗻 / 𝗝𝗦 / 𝗥𝗲𝗮𝗰𝘁
 
