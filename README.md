@@ -26,10 +26,14 @@
 ![](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 <br />
 <br />
+<br />
+  
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=404Bappy)](https://github.com/ryo-ma/github-profile-trophy)
 <br />
 <br />
-### Languages currently learning and working on:
+<h3 align="center">Languages currently learning and working on: </h3>
+    
 
 <img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="css3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -40,23 +44,17 @@
 <br/>
 <br/>
 <br/>
+    
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=404bappy&show_icons=true&locale=en" alt="404bappy" /></p>
 
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=404bappy&" alt="404bappy" /></p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=404Bappy)](https://github.com/anuraghazra/github-readme-stats) 
 
+ <br/> 
+ <br/>
+ <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=404Bappy)](https://github.com/anuraghazra/github-readme-stats)
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=404bappy&show_icons=true&locale=en" alt="404bappy" /></p>
+![Profile views](https://gpvc.arturio.dev/404Bappy) 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=404bappy&" alt="404bappy" /></p>
-
- 
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=404Bappy&theme=vue-dark&show_icons=true)  
-
-
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=404Bappy)  
-
-![Profile views](https://gpvc.arturio.dev/404Bappy)  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=404Bappy) 
