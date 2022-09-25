@@ -1,7 +1,7 @@
 
-![](https://media-exp1.licdn.com/dms/image/C4D22AQGhgceGsLNlVw/feedshare-shrink_800/0/1655316206937?e=1664409600&v=beta&t=JsFp5Z0ApCxX6bPXkXq3x0hEqyOkK4CJqAAG3P8wRFI)
+[![MasterHead](https://camo.githubusercontent.com/0a9108cfcbe39b4394f02381a7832bed5d7a33b334e0d6d336e638fbdcf19069/68747470733a2f2f6d79776562323030322e77337370616365732e636f6d2f4e65772d504e432d416e696d617465642d42616e6e6572732e676966)]()
 <h1 align="center">Hi 👋, I'm Md. Khairul Bashar</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate frontend developer from Bangladesh🇧🇩</h3>
 <img align = "right" alt= "coding" width= "400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 𝗦𝗸𝗶𝗹𝗹𝘀:
@@ -12,7 +12,7 @@
 
 
  <h3 align="center">Find Me On :</h3>
- <div align="center">
+ <div align="left">
    <a href= "https://www.facebook.com/arafat.bappy.779" > <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
    <a href= "https://www.instagram.com/bappy_who/" > <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
    <a href= "https://www.linkedin.com/in/md-khairul-bashar-3b61891bb/" > <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
