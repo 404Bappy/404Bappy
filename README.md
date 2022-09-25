@@ -1,7 +1,8 @@
-### Hi there 👋, This is Md. Khairul Bashar
-
 
 ![](https://media-exp1.licdn.com/dms/image/C4D22AQGhgceGsLNlVw/feedshare-shrink_800/0/1655316206937?e=1664409600&v=beta&t=JsFp5Z0ApCxX6bPXkXq3x0hEqyOkK4CJqAAG3P8wRFI)
+<h1 align="center">Hi 👋, I'm Md. Khairul Bashar</h1>
+<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<img align = "right" alt= "coding" width= "400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 𝗦𝗸𝗶𝗹𝗹𝘀:
 𝗛𝗧𝗠𝗟 / 𝗖𝗦𝗦 / 𝗣𝘆𝘁𝗵𝗼𝗻 / 𝗝𝗦 / 𝗥𝗲𝗮𝗰𝘁
