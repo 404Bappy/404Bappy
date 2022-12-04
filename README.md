@@ -57,4 +57,4 @@
 
 ![Profile views](https://gpvc.arturio.dev/404Bappy) 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=404Bappy) 
+ ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=404Bappy)
